@@ -1,9 +1,4 @@
----
-language: none
-tags: javascript, flow control, arrays, loops, functions, scope
-type: intro
-resources: 0
----
+
 
 ## JavaScript Flow Control
 
