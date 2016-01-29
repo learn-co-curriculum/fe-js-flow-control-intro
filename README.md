@@ -11,4 +11,4 @@ This unit will cover how to control the flow of your JavaScript program by intro
   - Loops
   - Functions
   - Variable Scope
-<a href='https://learn.co/lessons/fe-js-flow-control-intro' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/fe-js-flow-control-intro' title='JavaScript Flow Control'>JavaScript Flow Control</a> on Learn.co and start learning to code for free.</p>
